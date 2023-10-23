@@ -1,2 +1,2 @@
-# my-firts-repo
+# my-first-repo
 Practice account for learning GIT
